@@ -2,4 +2,4 @@
 
 ## Cloud et architectures scalables
 
-https://www.tornil.net/cours/2011_Epita/epita2011.html
+https://www.tornil.net/epita/epita2011.html
